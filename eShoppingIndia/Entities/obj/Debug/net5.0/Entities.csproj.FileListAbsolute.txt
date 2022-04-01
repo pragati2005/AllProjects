@@ -1,0 +1,15 @@
+E:\ASP.net core\Shopping website\eShoppingIndia\Entities\bin\Debug\net5.0\Entities.deps.json
+E:\ASP.net core\Shopping website\eShoppingIndia\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
+E:\ASP.net core\Shopping website\eShoppingIndia\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
+E:\ASP.net core\Shopping website\eShoppingIndia\Entities\bin\Debug\net5.0\Entities.dll
+E:\ASP.net core\Shopping website\eShoppingIndia\Entities\bin\Debug\net5.0\ref\Entities.dll
+E:\ASP.net core\Shopping website\eShoppingIndia\Entities\bin\Debug\net5.0\Entities.pdb
+E:\ASP.net core\Shopping website\eShoppingIndia\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.net core\Shopping website\eShoppingIndia\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+E:\ASP.net core\Shopping website\eShoppingIndia\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+E:\ASP.net core\Shopping website\eShoppingIndia\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+E:\ASP.net core\Shopping website\eShoppingIndia\Entities\obj\Debug\net5.0\Entities.dll
+E:\ASP.net core\Shopping website\eShoppingIndia\Entities\obj\Debug\net5.0\ref\Entities.dll
+E:\ASP.net core\Shopping website\eShoppingIndia\Entities\obj\Debug\net5.0\Entities.pdb
+E:\ASP.net core\Shopping website\eShoppingIndia\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache
+E:\ASP.net core\Shopping website\eShoppingIndia\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
